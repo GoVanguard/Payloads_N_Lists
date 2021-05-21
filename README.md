@@ -1,6 +1,10 @@
 # Burp-Intruder-Lists
 There are great fuzz wordlists out there, and I want to collect them in one repository :)
 
+Clone the repo with the included submodules
+```
+git clone --recurse-submodules https://github.com/M507/Burp-Intruder-Lists
+```
 
 Most of the wordlists are copied from:
 - https://github.com/swisskyrepo/PayloadsAllTheThings
