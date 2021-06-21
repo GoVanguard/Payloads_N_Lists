@@ -1,5 +1,4 @@
 # Burp-Intruder-Lists
-There are great fuzz wordlists out there, and I want to collect them in one repository :)
 
 Clone the repo with the included submodules
 ```
