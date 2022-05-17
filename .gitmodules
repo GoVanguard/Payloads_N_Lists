@@ -1,7 +1,3 @@
-[submodule "Payloads"]
-	path = Payloads
-	url = https://github.com/sh377c0d3/Payloads
-
 [submodule "Bug-Bounty-Wordlists"]
 	path = Bug-Bounty-Wordlists
 	url = https://github.com/Karanxa/Bug-Bounty-Wordlists
